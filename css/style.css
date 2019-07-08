@@ -6,8 +6,13 @@ header {
     display: inline-block;
 }
 
-img {
-    border-radius: 150%;
+.i {
+    border-radius: 50%;
+    border: 3px solid white;
+}
+
+.i:hover {
+    box-shadow: 0 0 2px 1px rgba(186, 22, 0, 0.932);
 }
 
 h1 {
@@ -28,4 +33,31 @@ body {
 
 .b {
     margin-left: 25%;
+}
+
+article {
+    width: 50%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+article:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.932);
+}
+
+.r {
+    width: 40%;
+    height: 250px;
+    border-radius: 20%;
+}
+
+.r:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.932);
+}
+
+aside {
+    height: 10px;
+    margin-left: 546px;
+    margin-top: -172px;
 }
