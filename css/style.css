@@ -1,0 +1,31 @@
+header {
+    height: 280px;
+}
+
+.x {
+    display: inline-block;
+}
+
+img {
+    border-radius: 150%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+body {
+    background-color: ;
+}
+
+.form-group {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.b {
+    margin-left: 25%;
+}
